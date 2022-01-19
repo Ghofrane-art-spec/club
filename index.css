@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+body{
+  background-color: white;
+  font-family: 'Outfit', sans-serif;
+}
+ul {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(6, 6, 31);
+    position: fixed;
+    top: 0;
+    width: 500%;
+    font-family: 'Arvo', serif;
+  }
+  li {
+    float: left;
+    display: inline;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: black;
+  }  
+ .para{
+    background: #32a2e1;
+    text-align: center ; 
+    border : 2px solid #ffffff ;
+  	border-radius: 20px ; 
+    display: table; 
+    padding: 10px ; 	   
+  	margin-right: 10% ;		
+  	margin-left: 10% ;
+	  margin-top: 15px ;
+    color: white;
+ }
+ .col{
+    float: left;
+    width: 50%;
+ }
+ .para:hover{
+   background-color: rgb(240, 240, 52);
+   color: white;
+ }
+ .bico{
+   margin-top: 5%;
+ }
+ .innovit{
+   border-radius: 0px 50px;
+   width: 100%;
+ }
+ .signin{
+  padding: 10px 20px ;   /*espace ta3 cadre de5el*/
+	margin: 20px ;        /*espace ta3 marge*/ 
+	border: 2px solid #ffffff ;  /*yaamel el cadre*/
+	color: white;
+	font-weight: bold ;
+	text-decoration: none;
+  margin-right: 12%;
+}
+.pub{
+  background-color: rgb(6, 6, 31);
+  text-align:center;
+  margin-top: 2%;
+  color: white;
+  width: 100%;
+  padding: 5%;  /*espace da5leni*/
+  margin-right: 12%;
+  font-family: 'PT Serif', serif;
+}
+.socialm{
+  margin-top: 5%;
+  margin-right: 10%;
+}
+.copy{
+  margin-right: 10%;
+  margin-top: 2%;
+}
