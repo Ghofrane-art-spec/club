@@ -1,0 +1,79 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J2I ISAMM</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <font size="4">
+    <ul>
+        <li><a href="index.html#intro"><b>J2I ISAMM</b></a></li>
+        <li><a href="index.html#mission">mission</a></li>
+        <li><a href="index.html#activite">activité</a></li>
+        <li><a href="index.html#hacka">hackathon</a></li>
+    </ul>
+   </font>
+   <div class="bico">
+   <img src="image\bicodup2.png" alt="0%" width="100%">
+   </div>
+   <font size="5">
+    <a name="intro">
+     <div class="para">
+     <div class="col">
+         <p>Jeunes Ingénieurs ISAMM est un club universitaire fondé en 2011,<br> 
+          par l’initiative d'élèves ingénieurs et d'enseignants <br> 
+           au sein de l’Institut Supérieur des Arts Multimédia de la Manouba (ISAMM).</p>
+        </div>
+        <div class="col">
+         <img src="image\j2i.png" alt="60%" width="110%">
+         </div>
+    </div>
+    <a name="mission">
+    <div class="para">
+    <p>Mission Jeunes Ingénieurs ISAMM:<br>
+    J2I a pour mission de fournir à ses membres un environnement où ils peuvent apprendre et maîtriser le travail en groupe,
+    <br>apprendre à gérer toute sorte de situations et coopérer pour organiser de divers événements,formations et workshops.
+    <br> Ainsi, Jeunes Ingénieurs ISAMM offre aux étudiants l'opportunité de développer leurs capacités,<br>
+    enrichir leurs compétences à travers les différentes formations et workshops et les aider à mieux appréhender les enjeux technologiques.</p>
+    </div>
+    <a name="activite">
+    <div class="para">
+    <p>Valeurs et activités :
+    <br>J2I a pour valeurs la solidarité entre les membres du club,<br>
+    l'innovation et le partage entre tout le monde. On n'oublie donc pas le slogan "Don't wait for opportunity, create it". <br>
+    Parmi les activités de Jeunes Ingénieurs ISAMM est de fournir des formations enrichissantes dans divers domaines<br>
+    et qui font partie de la tendance technologique tel que des formations en différents Framework Javascript (VueJs et Angular) et PHP (Symfony et Laravel).<br>
+    Ainsi que des formations en design graphique et en soft skills. <br>
+    J2I réalise chaque année des événements innovants tel que "Top Coders" et "Innovit" qui était réalisé en pleine pandémie avec succès.</p>
+    </div>
+    <a name="hacka">
+    <div class="para">
+        <div class="col">
+           <p>Innovit Hackathon :<br>
+            INNOV’IT est une compétition de développement de solutions technologiques par le club Jeunes Ingénieurs ISAMM.<br>
+            Durant ce hackathon, des groupes de 3 jeunes étudiants développeurs assisteront à deux workshops puis ils vont entrer dans une compétition<br>
+            dans les 24h qui suivent afin de donner une solution innovante sous forme d’une application web,<br>
+            mobile ou jeu vidéo répondant aux 17 objectifs de développement durable.</p>
+        </div>
+        <div class="col">
+        <img src="image\innovit.png" alt="60%" width="100%" class="innovit">
+        </div>
+    </div>
+  <div class="pub">
+         <a href="" class="SignIn">SignIn</a>
+     <div class="socialm">
+      <img src="image\fb.png" alt="5%" width="5%">
+      <img src="image\instagram.png" alt="5%" width="5%">
+      <img src="image\linkedin.png" alt="5%" width="5%">
+      <img src="image\youtube.png" alt="5%" width="5%">
+      <img src="image\twitter.png" alt="5%" width="5%">
+     </div>
+     <div class="copy">
+     <font size="3"><p>&copy;SALIM KAZDAGHLI</p></font>
+    </div>
+    </div>
+</font>
+</body>
+</html>
